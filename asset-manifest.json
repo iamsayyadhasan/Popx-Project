@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/popx-project/static/css/main.b0118dab.css",
+    "main.js": "/popx-project/static/js/main.9831224b.js",
+    "static/js/453.38f43915.chunk.js": "/popx-project/static/js/453.38f43915.chunk.js",
+    "index.html": "/popx-project/index.html",
+    "main.b0118dab.css.map": "/popx-project/static/css/main.b0118dab.css.map",
+    "main.9831224b.js.map": "/popx-project/static/js/main.9831224b.js.map",
+    "453.38f43915.chunk.js.map": "/popx-project/static/js/453.38f43915.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0118dab.css",
+    "static/js/main.9831224b.js"
+  ]
+}
